@@ -1,0 +1,2 @@
+This is all the information you need for this application.
+Everything it does is market prediction.
